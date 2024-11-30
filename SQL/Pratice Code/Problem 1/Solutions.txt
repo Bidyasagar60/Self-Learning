@@ -1,0 +1,13 @@
+
+/* Q:-  Write a query to find no of gold medal per swimmer for who won only gold medals. (MySQL) */
+
+
+SELECT 
+		
+		GOLD,
+		COUNT(GOLD) as [No of Awards]
+
+
+FROM EVENTS 
+WHERE GOLD NOT IN ( SELECT Silver FROM EVENTS UNION ALL SELECT BRONZE FROM EVENTS)
+GROUP BY  GOLD

@@ -1,0 +1,1 @@
+Problem 1 : Write a query to find no of gold medal per swimmer for who won only gold medals. (MySQL)

@@ -1,0 +1,14 @@
+
+GeeksforGeeks:
+
+1. Check if pair with the given Sum exists in Array.
+2. Find duplicates ( In Progress)
+
+Arsh DSA:
+1. Remove Duplicates from Sorted Array
+
+Code 360:
+
+Easy Level:
+
+1. Sort 0 1 2
