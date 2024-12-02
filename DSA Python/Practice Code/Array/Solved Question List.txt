@@ -12,3 +12,4 @@ Code 360:
 Easy Level:
 
 1. Sort 0 1 2
+2. Pair Sum
