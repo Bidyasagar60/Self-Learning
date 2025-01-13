@@ -1,0 +1,7 @@
+Problem 1 : Write a query to find no of gold medal per swimmer for who won only gold medals. (MySQL)
+Problem 2 : Write a query to find business create day between date and resolved date by excluding weekends and public holidays. (MYSQL)
+Problem 3 : Write a query to find total no of people present inside the hospital
+Problem 4 : Find the room types that are searched most of the times .Output: the room type along with the searches for it.
+            If the filter for the room type has more than one room type.
+            consider each unique room type as a separate row.
+            sort the result based on the number of searches in descending order.

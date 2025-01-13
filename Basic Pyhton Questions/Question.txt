@@ -1,0 +1,90 @@
+Questions Link : https://www.geeksforgeeks.org/python-programming-examples/
+
+
+Basic:
+
+1. Factorial of a number 
+2. Check Armstrong Number
+3. Print all Prime numbers in an Interval
+4. Check whether a number is Prime or not
+5. N-th Fibonacci number
+6. Check if a given number is Fibonacci number?
+7. Nth multiple of a number in Fibonacci Series
+8. Sum of squares of first n natural numbers
+9. Cube sum of first n natural numbers
+10. Find area of a circle
+11. Find simple interest
+12. Find compound interest
+
+
+Array/List:
+
+1. Find sum of array
+2. Find largest element in an array
+3. Program for array rotation
+4. Reversal algorithm for array rotation
+5. Split the array and add the first part to the end
+6. Find reminder of array multiplication divided by n
+7. Check if given array is Monotonic
+
+8. Interchange first and last elements in a list
+9. Swap two elements in a list
+10. Ways to find length of list (Ignore)
+11. Ways to check if element exists in list
+12. Different ways to clear a list
+13. Reversing a List
+14. Find sum of elements in list
+15. Multiply all numbers in the list
+16. Find smallest number in a list
+17. Find largest number in a list
+18. Find second largest number in a list
+19. Find N largest elements from a list
+20. Even numbers in a list (Ignore)
+21. Odd numbers in a List (Ignore)
+22. Print all even numbers in a range (Ignore)
+23. Print all odd numbers in a range (Ignore)
+24. Print positive numbers in a list (Ignore)
+25. Print negative numbers in a list (Ignore)
+26. Print all positive numbers in a range (Ignore)
+27. Print all negative numbers in a range (Ignore)
+28. Remove multiple elements from a list
+29. Remove empty List from List
+30. Cloning or Copying a list
+31. Count occurrences of an element in a list
+32. Remove empty tuples from a list
+33. Print duplicates from a list of integers
+34. Find Cumulative sum of a list
+35. Sum of number digits in List
+36. Break a list into chunks of size N
+37. Sort the values of first list using second list
+
+String:
+
+Check if a string is palindrome or not
+Reverse words in a given String
+Check if a Substring is Present in a Given String
+Words Frequency in String Shorthands
+Convert Snake case to Pascal case
+Find length of a string (4 ways)
+Print even length words in a string
+Accept the strings which contains all vowels
+Count the Number of matching characters in a pair of string
+Remove all duplicates from a given string
+Least Frequent Character in String
+Maximum frequency character in String
+Check if a string contains any special character
+Generating random strings until a given string is generated
+Find words which are greater than given length k
+Removing i-th character from a string
+Split and join a string
+Check if a given string is binary string or not
+Find uncommon words from two Strings
+Replace duplicate Occurrence in String
+Replace multiple words with K
+Permutation of a given string using inbuilt function
+Check for URL in a String
+Execute a String of Code
+String slicing to rotate a string
+String slicing to check if a string can become empty by recursive deletion
+Counter| Find all duplicate characters in string
+Replace all occurrences of a substring in a string

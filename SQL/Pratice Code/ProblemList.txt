@@ -1,2 +1,0 @@
-Problem 1 : Write a query to find no of gold medal per swimmer for who won only gold medals. (MySQL)
-Problem 2 : Write a query to find business create day between date and resolved date by excluding weekends and public holidays. (MYSQL)
