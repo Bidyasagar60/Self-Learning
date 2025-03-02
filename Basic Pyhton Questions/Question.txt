@@ -12,9 +12,7 @@ Basic:
 7. Nth multiple of a number in Fibonacci Series
 8. Sum of squares of first n natural numbers
 9. Cube sum of first n natural numbers
-10. Find area of a circle
-11. Find simple interest
-12. Find compound interest
+
 
 
 Array/List:
@@ -26,6 +24,7 @@ Array/List:
 5. Split the array and add the first part to the end
 6. Find reminder of array multiplication divided by n
 7. Check if given array is Monotonic
+8. Reverse an array
 
 8. Interchange first and last elements in a list
 9. Swap two elements in a list
@@ -65,7 +64,6 @@ Reverse words in a given String
 Check if a Substring is Present in a Given String
 Words Frequency in String Shorthands
 Convert Snake case to Pascal case
-Find length of a string (4 ways)
 Print even length words in a string
 Accept the strings which contains all vowels
 Count the Number of matching characters in a pair of string
